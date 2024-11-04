@@ -1,5 +1,20 @@
-"
+内蒙古工业大学土木工程专业课程设计使用代码（自用）
 本人课程设计使用与编译的代码，用来计算弯矩等数据
 参考教材（使用教材中的公式来进行计算与书写代码）：《混凝土结构设计》、《建筑钢结构》、《基础工程》
 代码仅为自用代码，由于各书本中的计算公式与使用条件或许有偏差，所以并不保证完全正确
-"
+使用前需要配置python的编译环境，对编程感兴趣的同学可以下载pycharm来使用并且学习
+（https://www.jetbrains.com/pycharm/download/）
+同时你也可以只在Baidu或者其他搜索引擎上搜索“在线编译环境”，将代码复制粘贴进去即可运行
+其他问题在我的代码中已经用注释解释的十分清楚
+使用过程中的问题可以咨询我本人，邮箱会在文章末尾标出
+希望可以帮到各位学弟学妹！
+
+Code Used for Course Design in Civil Engineering at Inner Mongolia University of Technology (Personal Use)
+This course design uses the compiled code to calculate data such as bending moments.
+The reference textbooks (formulas used for calculations and coding) include: 
+'Concrete Structure Design,' 'Architectural Steel Structure,' and 'Foundation Engineering.' 
+The code is for personal use only. 
+Since the calculation formulas and conditions may vary among the textbooks,
+complete accuracy is not guaranteed.
+
+E-MAIL:2160778092@qq.com
